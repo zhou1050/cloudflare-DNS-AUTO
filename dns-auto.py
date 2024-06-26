@@ -13,7 +13,7 @@ NUM_ATTEMPTS = 3  # 每个备用 IP 尝试的次数
 
 # Cloudflare Configuration
 CFKEY = "7d33c1704d"
-CFUSER = "1822.com"
+CFUSER = "1@qq.com"
 CFZONE_NAME = "xx.xyz"
 CFRECORD_NAME = "zz.xyz"
 CFTTL = 120
